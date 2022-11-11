@@ -1,4 +1,4 @@
-# irrigation
+# Smart Irrigation Sytsem
 - Implemented a ML based Smart irrigation system
 - Based on current temperature and humidity, we predicted what the desired waterflow should
 - Trained 2-Layer Neural network to predict the waterflow

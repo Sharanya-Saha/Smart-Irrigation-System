@@ -1,6 +1,6 @@
 # Smart Irrigation Sytsem
 - Implemented a ML based Smart irrigation system
-- Based on current temperature and humidity, we predicted what the desired waterflow should
+- Based on current temperature and humidity, we predicted what the desired waterflow should be
 - Trained 2-Layer Neural network to predict the waterflow
 - Achieved an R2 score of 0.905
 
